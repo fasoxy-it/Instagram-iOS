@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Tesla_sposta_produzione_texas_nevada_2020_coronavirus_02.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
